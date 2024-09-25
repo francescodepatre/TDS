@@ -1,0 +1,7 @@
+negli appelli parziali gli esercizi sono sempre cosi, 
+uno su segnali normali,uno sulla probabilità (molto probabile distribuzione esponenziale) 
+e uno sui segnali stocastici.
+
+si può portare un formulario con alcune nozioni di analisi 1.
+
+MOLTO CONSIGLIATO SEGUIRE IL CORSO.
